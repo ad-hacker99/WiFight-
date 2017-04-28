@@ -1,0 +1,32 @@
+|Attack|
+1. Scan the Wireless Network - This is used to scan nearby Wireless Networks
+
+2. Sniff the Wireless Network - This is used to sniff on Wireless Network
+
+3. Deauthenticate The Connected Users - Disconnect the connected Users on a Wireless Network
+
+4. Create FakeAP Beacons Spam - Create Multiple Fake Wifi Access Points
+
+5. Capture Handshakes - This is used for password Cracking of Wireless Network
+
+6. Crack Wireless Password (Using Aircrack-ng)
+
+7. Crack Wireless Password (Using Cowpatty)
+
+8. Crack Wireless Password (Using Reaver)
+
+9. SO here we Attacked WiFI. We Disconnted the users, Created fake WiFI  & Cracked the wireless password.
+    With such a cool Script
+
+
+|Tools|
+1. Aircrack-ng - type apt install aircrack-ng in Terminal
+2. mdk3 - type apt install mdk3 in Terminal
+3. Cowpatty - type apt install cowpatty
+4. Reaver - type apt install reaver
+
+
+Github : https://github.com/ad-hacker99
+Created by Ashish Dave (AD Hacker 0\99), Email : ad.hacker99@gmail.com, Wesite : adhacker.96.lt
+
+
